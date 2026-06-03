@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Calculadora CI
 
 Proyecto de calculadora con integración continua usando GitHub Actions y PHPUnit.
@@ -17,3 +18,6 @@ https://github.com/LUISVTP/Mycalculator
 ## Estado del Pipeline
 
 El pipeline ejecuta PHPUnit automáticamente en cada push para verificar que todas las operaciones de la calculadora funcionan correctamente.
+=======
+# Mycalculator
+>>>>>>> 6aa322cf0de6ca1006806ba2b50b6fae8e55667e
